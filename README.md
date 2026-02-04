@@ -1,30 +1,40 @@
 # Arramass
+**Software Engineer | Systems & Backend Architecture**
 
-> *Digital Infrastructure & Automation*
-
----
-
-### // Core
-
-Designing systems where function dictates form. Focused on scalable architecture and automated reasoning.
-
-```mermaid
-graph TD
-    A[Complexity] -->|Abstraction| B(Logic Layer)
-    B -->|Execution| C[Simple Solution]
-    style A fill:#fff,stroke:#333,stroke-width:1px
-    style B fill:#eee,stroke:#333,stroke-width:1px
-    style C fill:#000,stroke:#333,stroke-width:2px,color:#fff
-```
+Professional focus on designing robust, scalable backend infrastructures and high-performance systems. Committed to engineering excellence, clean code principles, and autonomous system reliability.
 
 ---
 
-### // Stack
+### // Professional Summary
 
-`Go` &nbsp; `Python` &nbsp; `Shell`
+Arramass is a technical identity dedicated to the intersection of performance and reliability. With extensive experience in **Systems Programming** and **Automated Workflows**, the focus remains on building software that operates efficiently at scale. 
 
-<br />
+- **Architecting** resilient backend systems with a focus on Go and Python.
+- **Optimizing** developer environments and infrastructure through strategic automation.
+- **Ensuring** high availability and performance in Unix-based (Darwin/Linux) ecosystems.
 
-<a href="https://github.com/Arramass">
-  <img src="https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
+---
+
+### // Technical Proficiencies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Go, Python, C-family, Shell Scripting |
+| **Infrastructure** | Docker, CI/CD Pipelines, System Administration |
+| **Operating Systems** | macOS (Darwin Architecture), Linux Distros |
+| **Specialized Skills** | Backend Development, API Design, System Optimization |
+
+---
+
+### // Engineering Philosophy
+
+1. **Precision:** Code should be as efficient as the hardware it resides on.
+2. **Reliability:** Systems must be designed for failure-tolerance and autonomous recovery.
+3. **Clarity:** Maintainable software is a byproduct of clear logic and minimal abstraction.
+
+---
+
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Active_Engineering-success?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Environment-Darwin-000000?style=flat-square&logo=apple&logoColor=white" alt="Environment"/>
+</div>
