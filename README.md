@@ -1,40 +1,38 @@
-# Arramass
-**Software Engineer | Systems & Backend Architecture**
+# [ ARRAMASS ] : SYSTEM CONFIGURATION
 
-Professional focus on designing robust, scalable backend infrastructures and high-performance systems. Committed to engineering excellence, clean code principles, and autonomous system reliability.
-
----
-
-### // Professional Summary
-
-Arramass is a technical identity dedicated to the intersection of performance and reliability. With extensive experience in **Systems Programming** and **Automated Workflows**, the focus remains on building software that operates efficiently at scale. 
-
-- **Architecting** resilient backend systems with a focus on Go and Python.
-- **Optimizing** developer environments and infrastructure through strategic automation.
-- **Ensuring** high availability and performance in Unix-based (Darwin/Linux) ecosystems.
+> "Complexity is the enemy of execution. Build systems that are resilient, observable, and autonomous."
 
 ---
 
-### // Technical Proficiencies
+### `[ SYSTEM_STATUS ]`
+**Role:** Senior Software Engineer / Systems Architect  
+**Focus:** Backend Infrastructure, Automated Workflows, High-Performance Systems  
+**Environment:** `darwin/arm64` | `linux/amd64`  
 
-| Category | Technologies |
+---
+
+### `[ CORE_COMPETENCIES ]`
+
+| Domain | Primary Technologies |
 | :--- | :--- |
-| **Languages** | Go, Python, C-family, Shell Scripting |
-| **Infrastructure** | Docker, CI/CD Pipelines, System Administration |
-| **Operating Systems** | macOS (Darwin Architecture), Linux Distros |
-| **Specialized Skills** | Backend Development, API Design, System Optimization |
+| **`SYS_LANGUAGES`** | `Go`, `Python`, `C`, `Shell` |
+| **`INFRASTRUCTURE`** | `Docker`, `CI/CD`, `Linux Administration` |
+| **`ARCHITECTURE`** | `System Optimization`, `API Design`, `Autonomous Tooling` |
 
 ---
 
-### // Engineering Philosophy
-
-1. **Precision:** Code should be as efficient as the hardware it resides on.
-2. **Reliability:** Systems must be designed for failure-tolerance and autonomous recovery.
-3. **Clarity:** Maintainable software is a byproduct of clear logic and minimal abstraction.
+### `[ ARCHITECTURAL_PRINCIPLES ]`
+1. **Idempotency:** Operations must be safely repeatable without unintended side effects.
+2. **Observability:** If a system fails, it must explicitly describe *why* it failed.
+3. **Autonomy:** Systems should self-correct and self-document (e.g., `The Gemini Controller`).
+4. **Simplicity:** Minimal abstraction; clean logic over clever code.
 
 ---
 
-<div align="right">
-  <img src="https://img.shields.io/badge/Status-Active_Engineering-success?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Environment-Darwin-000000?style=flat-square&logo=apple&logoColor=white" alt="Environment"/>
-</div>
+### `[ ACTIVE_DIRECTORIES ]`
+* **`./Mole`** -> macOS Optimization Utility (Go)
+* **`./Exam_Automation_Kit`** -> Pedagogical Assessment Generator (Python/AppleScript)
+* **`./obs`** -> Secure Digital Brain Vault (Markdown/Git)
+
+---
+`EOF`
