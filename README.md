@@ -30,9 +30,8 @@
 ---
 
 ### `[ ACTIVE_DIRECTORIES ]`
-* **`./Mole`** -> macOS Optimization Utility (Go)
-* **`./Exam_Automation_Kit`** -> Pedagogical Assessment Generator (Python/AppleScript)
-* **`./obs`** -> Secure Digital Brain Vault (Markdown/Git)
+* **`./The_Gemini_Controller`** -> Autonomous CI/CD Documentation Engine (Git Hooks/Python)
+* **`./Mole`** -> High-Performance macOS Optimization Utility (Go)
 
 ---
 `EOF`
